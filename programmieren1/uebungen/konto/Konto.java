@@ -1,4 +1,4 @@
-package uebungen.konto;
+package programmieren1.uebungen.konto;
 
 import java.util.Scanner;
 

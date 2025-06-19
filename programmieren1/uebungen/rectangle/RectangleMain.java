@@ -1,4 +1,4 @@
-package uebungen.rectangle;
+package programmieren1.uebungen.rectangle;
 
 public class RectangleMain {
     public static void main(String[] args) {

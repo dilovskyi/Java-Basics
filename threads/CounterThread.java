@@ -3,7 +3,7 @@ package threads;
 public class CounterThread extends Thread {
     int counter;
 
-    MyThread(String name, int counter) {
+    CounterThread(String name, int counter) {
         super(name);
         setPriority(Thread.NORM_PRIORITY + 3);
         this.counter = counter;

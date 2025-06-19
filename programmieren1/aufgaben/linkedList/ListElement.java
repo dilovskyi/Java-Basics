@@ -1,4 +1,4 @@
-package aufgaben.linkedList;
+package programmieren1.aufgaben.linkedList;
 
 public class ListElement {
     char value;

@@ -1,4 +1,4 @@
-package aufgaben;
+package programmieren1.aufgaben;
 
 public class Rhombus {
     int width;

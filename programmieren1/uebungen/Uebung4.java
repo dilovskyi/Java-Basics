@@ -1,4 +1,4 @@
-package uebungen;
+package programmieren1.uebungen;
 
 public class Uebung4 {
 

@@ -1,4 +1,4 @@
-package uebungen.rectangle;
+package programmieren1.uebungen.rectangle;
 
 public class Rectangle {
     private int a;

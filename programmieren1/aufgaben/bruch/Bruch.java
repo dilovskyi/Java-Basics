@@ -1,4 +1,4 @@
-package aufgaben.bruch;
+package programmieren1.aufgaben.bruch;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package aufgaben.bruch;
+package programmieren1.aufgaben.bruch;
 
 public class BruchMain {
     public static void main(String[] args) {

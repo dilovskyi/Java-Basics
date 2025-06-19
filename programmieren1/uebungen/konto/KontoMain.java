@@ -1,4 +1,4 @@
-package uebungen.konto;
+package programmieren1.uebungen.konto;
 
 public class KontoMain {
     public static void main(String[] args) {
